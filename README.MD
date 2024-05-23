@@ -1,7 +1,7 @@
 
 ## Descripción
 
-Esta es una pequeña colección de simulaciones construidas en el lenguaje de programación Java. En total podemos encontrar tres de ellas:
+Esta es una pequeña colección de simulaciones construidas en el lenguaje de programación Java y Python. En total podemos encontrar cinco de ellas:
 
 ## Torricelli
 
@@ -35,6 +35,13 @@ La aplicación es una simulación interactiva del movimiento de un péndulo, don
 La aplicación es una simulación interactiva del movimiento en bolsa del dólar estadounidense. Este código carga datos financieros, entrena un modelo de regresión lineal, proporciona una interfaz gráfica de usuario para que el usuario pueda calcular la inversión financiera y muestra los resultados en gráficos actualizados.
 
 ![MoneyApp](image_readme/moneyapp.png)
+
+
+## Engine
+
+Este es un simulador de un motor de combustión interna desarrollado en Java. El simulador permite ajustar diferentes parámetros del motor, como las revoluciones por minuto (RPM), la carrera del cilindro, el diámetro del cilindro, y la presión media del motor. Con estos parámetros, el programa simula el funcionamiento del motor y calcula la potencia desarrollada.
+
+![Engine](image_readme/engine.png)
 
 
 ## Autor
